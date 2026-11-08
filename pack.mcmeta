@@ -1,0 +1,7 @@
+{
+	"pack": {
+		"pack_format": 8,
+		"supported_formats": [0, 999],
+		"description": "A basic skill tree mod intended to be used alongside the RPG Series of mods"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 1,
+	"id": "default_rpg_skill_tree",
+	"version": "1.0",
+	"name": "Default RPG Skill Trees",
+	"description": "A basic skill tree mod intended to be used alongside the RPG Series of mods",
+	"authors": [
+		"LunaStrike"
+	],
+	"license": "Unlicense",
+	"environment": "*"
+}
